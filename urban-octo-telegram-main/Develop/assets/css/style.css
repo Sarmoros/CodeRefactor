@@ -5,9 +5,9 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #d9dcd6;/*background color of entire page*/
 }
-
+/* header details of top section of page*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* placement and colors of contents in body*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* coloring of text*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,7 +100,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* heading size and placement of the headers on the right side of page*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -115,7 +115,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* sizing and placement of the symbols on right side of page*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,12 +133,12 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* sizing and coloring surrounding the descriptions in body of the page*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -147,7 +147,7 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -156,11 +156,11 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*sizing the images*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,7 +172,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/*heading sizes in body of the page */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer details, end of page */
 .footer {
     padding: 30px;
     clear: both;
