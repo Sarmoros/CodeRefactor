@@ -1,1 +1,3 @@
-# Code Refactor Starter Code
+# Horiseon
+
+Site used for marketing purposes.

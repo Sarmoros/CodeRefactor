@@ -1,6 +1,7 @@
 # Code Refactor
 
 Cleaned the code a little by:
+
 Adding notes to the HTML page to find things a little easier.
 Adding notes to the CSS page to find things a little easier.
 Changed the title of page.
