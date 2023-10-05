@@ -9,5 +9,5 @@ Added HTML attributes to the all the images.
 
 A cleaner code helps other developers and partners access and view the code with more ease. Leading to quicker debugging times, focusing and managing the codes more, leading to a better software performance. 
 
-
+https://sarmoros.github.io/code-refactor/
 
